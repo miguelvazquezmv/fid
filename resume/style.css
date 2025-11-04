@@ -1,0 +1,71 @@
+body {
+    background-color: rgb(4,1,87);
+}
+nav {
+    color: black;
+    font-size: larger;
+    background-color: lightgray;
+    text-align: center;
+    line-height: 3;
+    text-decoration: none;
+}
+a {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: black;
+}
+table {
+    line-height: 2;
+    background-color:rgb(79, 79, 79) ;
+    font-weight: normal;
+    font-family: sans-serif;
+    text-align: center;
+    border-style: solid;
+    border-width: 5px;
+    border-color: aqua;
+    padding: 1em 1em 1em 1em;
+}
+p {
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: normal;
+    font-size: 14px;
+    color: white;
+    text-align: center;
+}
+h1 {
+    color: white;
+    font-size: 2.5em;
+    text-align: center;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-weight:bolder;
+    text-transform: uppercase;
+}
+h2 {
+    text-align:center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-transform: uppercase;
+    color: white;
+    font-size: 1.5em;
+}
+h3 {
+    text-align:center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-transform: none;
+    color: white;
+    font-size: 1.25em;
+}
+footer img {
+        width: 75px;
+        height: 75px;
+        margin-left: .5em;
+        margin-right: .5em;
+        }
+ul {
+    color: white;
+    text-decoration: none;
+    text-align: center;
+}
+.center {
+            display: block;
+            margin-left: auto;
+            margin-right: auto;
+        }
