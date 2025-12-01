@@ -2,16 +2,19 @@ body {
     background-color: rgb(4,1,87);
 }
 nav {
-    color: black;
+    color: white;
     font-size: larger;
-    background-color: lightgray;
+    background-color: rgb(5, 103, 168);
     text-align: center;
-    line-height: 3;
+    line-height: 2.5;
     text-decoration: none;
 }
 a {
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-    color: black;
+    font-family: "Barlow Condensed", sans-serif;
+    font-weight: 600;
+    font-style: normal;
+    font-size: 21px;
+    color: white;
 }
 table {
     line-height: 2;
@@ -25,33 +28,39 @@ table {
     padding: 1em 1em 1em 1em;
 }
 p {
-    font-family:Verdana, Geneva, Tahoma, sans-serif;
-    font-weight: normal;
-    font-size: 14px;
+    font-family: "Barlow Condensed", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: large;
     color: white;
     text-align: center;
 }
 h1 {
+    font-family: "Barlow Condensed", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 48px;
     color: white;
-    font-size: 2.5em;
-    text-align: center;
-    font-family:Verdana, Geneva, Tahoma, sans-serif;
-    font-weight:bolder;
     text-transform: uppercase;
+    text-align: center;
 }
 h2 {
-    text-align:center;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-family: "Barlow Condensed", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    text-align: center;
     text-transform: uppercase;
     color: white;
-    font-size: 1.5em;
+    font-size: 24px;
 }
 h3 {
+    font-family: "Barlow Condensed", sans-serif;
+    font-weight: 700;
+    font-style: normal;
     text-align:center;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
     text-transform: none;
     color: white;
-    font-size: 1.25em;
+    font-size: large;
 }
 footer img {
         width: 75px;
