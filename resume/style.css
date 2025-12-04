@@ -26,6 +26,7 @@ table {
     border-width: 5px;
     border-color: aqua;
     padding: 1em 1em 1em 1em;
+    max-width: 1650px;
 }
 p {
     font-family: "Barlow Condensed", sans-serif;
